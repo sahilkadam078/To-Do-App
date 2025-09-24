@@ -1,6 +1,4 @@
- https://sahilkadam078.github.io/To-Do-App/
-
- # To-Do App
+## To-Do App
 
 A simple To-Do List application built with **HTML**, **CSS**, and **JavaScript**. This app allows users to:
 
